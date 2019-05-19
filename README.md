@@ -1,26 +1,13 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+# Landing Page Website
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Landing page originally created/cloned for a client. Website was created with the intention of landing them more clients in the the English and Spanish community creating multiple versions of the website. This used basic bootstrap technology while using the multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/)
 
-## Getting Started
+## Built With
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
-* Fork the repo
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Hypertext Markup Language
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets
+- [Bootstrap](http://getbootstrap.com/) - World's most popular front-end component library for CSS
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html?promoid=791Y6RSN&mv=other) - The essential tool for editing and compositing photos, images, 3D graphics, video, web and app design, and more
 
 ## Copyright and License
 
